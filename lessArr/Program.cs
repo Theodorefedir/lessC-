@@ -52,6 +52,17 @@ namespace lessArr
             }
             return count;
         }
+
+        static int CountLessThan(int[] arr, int num)
+        {
+            int count = 0;
+            foreach (int el in arr)
+            {
+                if (el < num)
+                    count++;
+            }
+            return count;
+        }
         static void Main(string[] args)
         {
             //Console.WriteLine("Hello, World!");
@@ -71,10 +82,12 @@ namespace lessArr
             //    }
             //    Console.WriteLine();
             //}
-
+            Console.Write("Enter num: ");
+            int num = int.Parse(Console.ReadLine());
             IsEven(arr);
             IsOdd(arr);
             Console.WriteLine(IsUnique(arr));
+            Console.WriteLine(CountLessThan(arr, num));
 
         }
     }
