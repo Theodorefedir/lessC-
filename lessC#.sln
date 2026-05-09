@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "classLibrary", "classLibrar
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lessArr", "lessArr\lessArr.csproj", "{3AE35AD1-5E57-4BA8-8469-87A396FAA408}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP_less", "OOP_less\OOP_less.csproj", "{B66631B9-2A6E-417A-BDD3-21C15F929B38}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{3AE35AD1-5E57-4BA8-8469-87A396FAA408}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3AE35AD1-5E57-4BA8-8469-87A396FAA408}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3AE35AD1-5E57-4BA8-8469-87A396FAA408}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B66631B9-2A6E-417A-BDD3-21C15F929B38}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B66631B9-2A6E-417A-BDD3-21C15F929B38}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B66631B9-2A6E-417A-BDD3-21C15F929B38}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B66631B9-2A6E-417A-BDD3-21C15F929B38}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
