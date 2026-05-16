@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lessArr", "lessArr\lessArr.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP_less", "OOP_less\OOP_less.csproj", "{B66631B9-2A6E-417A-BDD3-21C15F929B38}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exeptions", "Exeptions\Exeptions.csproj", "{71967DF4-C6AF-42EF-93BD-E1A38359EE1E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{B66631B9-2A6E-417A-BDD3-21C15F929B38}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B66631B9-2A6E-417A-BDD3-21C15F929B38}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B66631B9-2A6E-417A-BDD3-21C15F929B38}.Release|Any CPU.Build.0 = Release|Any CPU
+		{71967DF4-C6AF-42EF-93BD-E1A38359EE1E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71967DF4-C6AF-42EF-93BD-E1A38359EE1E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71967DF4-C6AF-42EF-93BD-E1A38359EE1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71967DF4-C6AF-42EF-93BD-E1A38359EE1E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
