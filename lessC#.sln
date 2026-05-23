@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP_less", "OOP_less\OOP_le
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exeptions", "Exeptions\Exeptions.csproj", "{71967DF4-C6AF-42EF-93BD-E1A38359EE1E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "less7", "less8\less7.csproj", "{97877C6B-F30C-4D48-ABB1-8432421CE0D5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{71967DF4-C6AF-42EF-93BD-E1A38359EE1E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{71967DF4-C6AF-42EF-93BD-E1A38359EE1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{71967DF4-C6AF-42EF-93BD-E1A38359EE1E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{97877C6B-F30C-4D48-ABB1-8432421CE0D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97877C6B-F30C-4D48-ABB1-8432421CE0D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97877C6B-F30C-4D48-ABB1-8432421CE0D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97877C6B-F30C-4D48-ABB1-8432421CE0D5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

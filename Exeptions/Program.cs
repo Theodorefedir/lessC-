@@ -48,23 +48,25 @@ namespace Exeptions
             return result;
         }
 
-    class User
-    {
-        private string login;
-        public string Login
-        {
-            get { return login; }
-            set
-            {
-                if (value == "")
-                {
-                    throw new LoginException("Login is invalid");
-                }
-                else
-                    login = value;
-            }
-        }
-    }
+    //class User
+    //{
+    //    private string login;
+    //    public string Login
+    //    {
+    //        get { return login; }
+    //        set
+    //        {
+    //            if (value == "")
+    //            {
+    //                throw new LoginException("Login is invalid");
+    //            }
+    //            else
+    //                login = value;
+    //        }
+    //    }
+    //}
+
+
         static void Main(string[] args)
         {
             #region Example 1
